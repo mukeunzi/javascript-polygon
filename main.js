@@ -1,4 +1,4 @@
-const area = require("./area");
+const area = require('./area');
 
 console.log(area.getArea('circle', 10));
 console.log(area.getArea('circle', 1, 4));
